@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Elina Edraki 👋</h1>
 
 <h3 align="center">Machine Learning • Deep Learning • IoT & Embedded Systems</h3>
 
@@ -44,8 +43,11 @@ and solve real-world problems. I'm always exploring new technologies and learnin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElinaEdraki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaEdraki&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=ElinaEdraki&show_icons=true&theme=tokyonight&rank_icon=github" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaEdraki&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
