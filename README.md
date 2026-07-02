@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning · Deep Learning · IoT & Embedded Systems</h3>
 
 <p align="center">
-  I build connected, intelligent devices — combining embedded hardware (Arduino, Raspberry Pi) with machine learning and cloud/IoT integrations to create systems that sense, decide, and act in the real world.
+  I'm a student who somehow ended up more interested in wiring up sensors than in the assignments themselves. Most of what's here started as coursework: Arduino sketches, Raspberry Pi scripts, things that read a sensor and push the number somewhere. Lately I keep looking for excuses to drop a small ML model into the mix — right now that mostly means a security camera that decides for itself whether it actually saw a person, plus a handful of IoT projects that talk to the cloud in different ways.
 </p>
 
 <br/>
@@ -33,13 +33,13 @@
 <td width="50%">
 
 **[Smart Security System](https://github.com/ElinaEdraki/smart-security-system)**
-Distributed Arduino + Raspberry Pi security system with on-device ML person detection and automated email alerts.
+A PIR sensor trips the Arduino, which tells a Raspberry Pi to start taking photos. The Pi runs each one through a small ML model and only emails me if it's actually confident a person is in frame.
 
 </td>
 <td width="50%">
 
 **[IoT & Embedded Systems Projects](https://github.com/ElinaEdraki/iot-embedded-systems-projects)**
-A collection of Arduino/Raspberry Pi projects spanning BLE, MQTT, IFTTT webhooks, and Arduino IoT Cloud.
+Smaller Arduino and Raspberry Pi projects from while I was learning how different devices can talk to each other: BLE, MQTT, IFTTT webhooks, and Arduino's own cloud platform.
 
 </td>
 </tr>
@@ -47,13 +47,13 @@ A collection of Arduino/Raspberry Pi projects spanning BLE, MQTT, IFTTT webhooks
 <td width="50%">
 
 **[Arduino ThingSpeak Webhook](https://github.com/ElinaEdraki/arduino-thingspeak-webhook)**
-Sensor node streaming live temperature and light data to the cloud via ThingSpeak.
+An Arduino Nano reads temperature and light every 20 seconds and pushes the numbers to ThingSpeak, so I can check them from my phone instead of standing next to the sensor.
 
 </td>
 <td width="50%">
 
 **[DevSecOps Vulnerability Scanning Demo](https://github.com/ElinaEdraki/devsecops-vulnerability-scanning-demo)**
-Hands-on security scanning practice — dependency, container, and runtime vulnerability detection.
+I used Snyk's Goof, an app that's deliberately full of holes, to practice finding real vulnerabilities in dependencies, Docker images, and running code.
 
 </td>
 </tr>
