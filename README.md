@@ -43,13 +43,5 @@ and solve real-world problems. I'm always exploring new technologies and learnin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=ElinaEdraki&show_icons=true&theme=tokyonight&rank_icon=github" />
-
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinaEdraki&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ElinaEdraki&theme=tokyonight&hide_border=true" />
 </p>
