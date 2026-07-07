@@ -9,7 +9,7 @@ and solve real-world problems. I'm always exploring new technologies and learnin
 
 ---
 
-## 🛠️ Technologies I Enjoy Working With
+##  Technologies I Enjoy Working With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@ and solve real-world problems. I'm always exploring new technologies and learnin
 
 ---
 
-## 🚀 Some Projects I'm Proud Of
+##  Some Projects I'm Proud Of
 
 | Project | Description |
 |---------|-------------|
@@ -38,10 +38,4 @@ and solve real-world problems. I'm always exploring new technologies and learnin
 | **[Arduino ThingSpeak Webhook](https://github.com/ElinaEdraki/arduino-thingspeak-webhook)** | An Arduino-based sensor project that uploads live temperature and light readings to ThingSpeak for cloud monitoring. |
 | **[DevSecOps Vulnerability Scanning Demo](https://github.com/ElinaEdraki/devsecops-vulnerability-scanning-demo)** | A practical project exploring dependency, container, and runtime vulnerability scanning using modern DevSecOps tools. |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ElinaEdraki&theme=tokyonight&hide_border=true" />
-</p>
